@@ -1,0 +1,15 @@
+{
+    "params": {
+        "local_server":"True",
+        "local_uri":"mysql://root:@localhost/rhythm",
+        "websitename":"Rhythm",
+        "fb_url":"https://facebook.com/Rhythm",
+        "goog_url":"https://google.com/Rhythm",
+        "tw_url":"https://twitter.com/Rhythm",
+        "li_url":"https://linkedin.com/Rhythm",
+        "login_image":"login.svg",
+        "admin_user":"g1admin",
+        "admin_password":"miniproject",
+        "no_of_songs": 4
+    }
+}
